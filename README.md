@@ -18,7 +18,7 @@ Supported Distro (Please use these distros)
 * Debian 9
 * Debian 10
 
-Installation is very easy login to your VPS and run the installer. The script will generate default ssh user and it will secure your server 💪 !
+Installation is very easy, login to your VPS and run the installer. The script will generate default ssh user and it will secure your server 💪 !
 
 RUN : ✨ `wget https://github.com/devseckobz/SSH-SLOWDNS-INSTALLER/raw/main/sshdns; chmod +x sshdns; ./sshdns` ✨
 
