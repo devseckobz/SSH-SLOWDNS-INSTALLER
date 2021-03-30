@@ -1,5 +1,4 @@
 # SSH-SLOWDNS-INSTALLER
-SSH via Dns Installer
 
 The installer includes
 
