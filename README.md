@@ -20,3 +20,6 @@ Supported Distro (Please use these distros)
 
 Installation is very easy login to your VPS and run the installer.
 
+RUN : `<addr>`
+
+[![image.png](https://i.postimg.cc/c4f073c5/image.png)](https://postimg.cc/F7FMN78j)
