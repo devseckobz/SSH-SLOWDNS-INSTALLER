@@ -1,2 +1,12 @@
 # SSH-SLOWDNS-INSTALLER
 SSH via Dns Installer
+
+The installer includes
+
+* SSH = 22
+* SSH + SLOWDNS = 2222
+* SSH + SSL = 443
+* DROPBEAR = 44
+* DROPBEAR + SSL = 443
+* SQUID PROXY = 8080, 8181
+* HTTP/SOCKS PROXY = 80
