@@ -12,7 +12,7 @@ The installer includes
 * SQUID PROXY = 8080, 8181
 * HTTP/SOCKS PROXY = 80
 
-Supported Distro
+Supported Distro (Please use these distros)
 * Ubuntu 18.4
 * Ubuntu 20.4
 * Debian 9
