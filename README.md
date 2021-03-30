@@ -13,10 +13,10 @@ The installer includes
 * 👌 HTTP/SOCKS PROXY = 80
 
 Supported Distro (Please use these distros)
-* Ubuntu 18.4
-* Ubuntu 20.4
-* Debian 9
-* Debian 10
+* Ubuntu 18.4 Kvm
+* Ubuntu 20.4 Kvm
+* Debian 9 Kvm
+* Debian 10 Kvm
 
 Installation is very easy, login to your VPS and run the installer. The script will generate default ssh user and it will secure your server 💪 !
 
