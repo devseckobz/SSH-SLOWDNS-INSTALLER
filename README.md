@@ -2,6 +2,8 @@
 
 This installer has built-in dns maker so no need to register a domain inorder to use this! *less hassle* 😍
 
+(For collab just ping me up!)
+
 The installer includes
 
 * 👌 SSH = 22
